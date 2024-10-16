@@ -2,7 +2,7 @@
 
 |Nama|NIM|Kelas|Mata Kuliah|
 |----|---|-----|------|
-|**Wishnu Aqbil Ramadani**|**312310591 **|**TI.23.A6**|**Pemrograman Orientasi Objek**|
+|**Wishnu Aqbil Ramadani**|**312310591**|**TI.23.A6**|**Pemrograman Orientasi Objek**|
 
 ![gambar](Tugas-Pemrograman-Orientasi-Objek-Pert4/ss1.jpeg)
 
